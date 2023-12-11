@@ -1,0 +1,75 @@
+C:\Users\Alumno\source\repos\WpfApp1\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\Alumno\source\repos\WpfApp1\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\Alumno\source\repos\WpfApp1\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\Alumno\source\repos\WpfApp1\Datos\bin\Debug\net6.0\Entity.dll
+C:\Users\Alumno\source\repos\WpfApp1\Datos\bin\Debug\net6.0\Entity.pdb
+C:\Users\Alumno\source\repos\WpfApp1\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\WpfApp1\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\WpfApp1\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\WpfApp1\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\WpfApp1\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\WpfApp1\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\Alumno\source\repos\WpfApp1\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\Alumno\source\repos\WpfApp1\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\Alumno\source\repos\WpfApp1\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\Alumno\source\repos\WpfApp1\Datos\obj\Debug\net6.0\ref\Datos.dll
+D:\tarea\lab07\lab07xd-desAEA\Datos\bin\Debug\net6.0\Datos.deps.json
+D:\tarea\lab07\lab07xd-desAEA\Datos\bin\Debug\net6.0\Datos.dll
+D:\tarea\lab07\lab07xd-desAEA\Datos\bin\Debug\net6.0\Datos.pdb
+D:\tarea\lab07\lab07xd-desAEA\Datos\bin\Debug\net6.0\Entity.dll
+D:\tarea\lab07\lab07xd-desAEA\Datos\bin\Debug\net6.0\Entity.pdb
+D:\tarea\lab07\lab07xd-desAEA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+D:\tarea\lab07\lab07xd-desAEA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\tarea\lab07\lab07xd-desAEA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+D:\tarea\lab07\lab07xd-desAEA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+D:\tarea\lab07\lab07xd-desAEA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+D:\tarea\lab07\lab07xd-desAEA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+D:\tarea\lab07\lab07xd-desAEA\Datos\obj\Debug\net6.0\Datos.dll
+D:\tarea\lab07\lab07xd-desAEA\Datos\obj\Debug\net6.0\refint\Datos.dll
+D:\tarea\lab07\lab07xd-desAEA\Datos\obj\Debug\net6.0\Datos.pdb
+D:\tarea\lab07\lab07xd-desAEA\Datos\obj\Debug\net6.0\ref\Datos.dll
+D:\xd\lab07xd-desAEA\Datos\bin\Debug\net6.0\Datos.deps.json
+D:\xd\lab07xd-desAEA\Datos\bin\Debug\net6.0\Datos.dll
+D:\xd\lab07xd-desAEA\Datos\bin\Debug\net6.0\Datos.pdb
+D:\xd\lab07xd-desAEA\Datos\bin\Debug\net6.0\Entity.dll
+D:\xd\lab07xd-desAEA\Datos\bin\Debug\net6.0\Entity.pdb
+D:\xd\lab07xd-desAEA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+D:\xd\lab07xd-desAEA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\xd\lab07xd-desAEA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+D:\xd\lab07xd-desAEA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+D:\xd\lab07xd-desAEA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+D:\xd\lab07xd-desAEA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+D:\xd\lab07xd-desAEA\Datos\obj\Debug\net6.0\Datos.dll
+D:\xd\lab07xd-desAEA\Datos\obj\Debug\net6.0\refint\Datos.dll
+D:\xd\lab07xd-desAEA\Datos\obj\Debug\net6.0\Datos.pdb
+D:\xd\lab07xd-desAEA\Datos\obj\Debug\net6.0\ref\Datos.dll
+D:\xd\lab11-1\lab09-desAEA\Datos\bin\Debug\net6.0\Datos.deps.json
+D:\xd\lab11-1\lab09-desAEA\Datos\bin\Debug\net6.0\Datos.dll
+D:\xd\lab11-1\lab09-desAEA\Datos\bin\Debug\net6.0\Datos.pdb
+D:\xd\lab11-1\lab09-desAEA\Datos\bin\Debug\net6.0\Entity.dll
+D:\xd\lab11-1\lab09-desAEA\Datos\bin\Debug\net6.0\Entity.pdb
+D:\xd\lab11-1\lab09-desAEA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+D:\xd\lab11-1\lab09-desAEA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\xd\lab11-1\lab09-desAEA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+D:\xd\lab11-1\lab09-desAEA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+D:\xd\lab11-1\lab09-desAEA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+D:\xd\lab11-1\lab09-desAEA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+D:\xd\lab11-1\lab09-desAEA\Datos\obj\Debug\net6.0\Datos.dll
+D:\xd\lab11-1\lab09-desAEA\Datos\obj\Debug\net6.0\refint\Datos.dll
+D:\xd\lab11-1\lab09-desAEA\Datos\obj\Debug\net6.0\Datos.pdb
+D:\xd\lab11-1\lab09-desAEA\Datos\obj\Debug\net6.0\ref\Datos.dll
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Datos\bin\Debug\net6.0\Entity.dll
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Datos\bin\Debug\net6.0\Entity.pdb
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Datos\obj\Debug\net6.0\ref\Datos.dll

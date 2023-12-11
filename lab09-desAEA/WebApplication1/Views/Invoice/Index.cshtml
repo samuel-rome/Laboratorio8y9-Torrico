@@ -1,0 +1,48 @@
+﻿@model IEnumerable<WebApplication1.Models.InvoiceModel>
+
+@{
+    ViewData["Title"] = "Tabla de Invoices";
+}
+
+<h1>Tabla de Invoices</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Invoice_Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Total)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Igv)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Invoice_Id)
+            </td>
+            <td>
+                    <p>S/  @Html.DisplayFor(modelItem => item.Total)</p>
+               
+            </td>
+            <td>
+                    <p>S/ @Html.DisplayFor(modelItem => item.Igv)</p>
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Invoice_Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Invoice_Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Invoice_Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

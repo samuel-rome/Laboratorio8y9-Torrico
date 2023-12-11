@@ -1,0 +1,76 @@
+C:\Users\Alumno\source\repos\WpfApp1\Servicio\bin\Debug\net6.0\Servicio.deps.json
+C:\Users\Alumno\source\repos\WpfApp1\Servicio\bin\Debug\net6.0\Servicio.dll
+C:\Users\Alumno\source\repos\WpfApp1\Servicio\bin\Debug\net6.0\Servicio.pdb
+C:\Users\Alumno\source\repos\WpfApp1\Servicio\bin\Debug\net6.0\Datos.dll
+C:\Users\Alumno\source\repos\WpfApp1\Servicio\bin\Debug\net6.0\Entity.dll
+C:\Users\Alumno\source\repos\WpfApp1\Servicio\bin\Debug\net6.0\Datos.pdb
+C:\Users\Alumno\source\repos\WpfApp1\Servicio\bin\Debug\net6.0\Entity.pdb
+C:\Users\Alumno\source\repos\WpfApp1\Servicio\obj\Debug\net6.0\Servicio.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\WpfApp1\Servicio\obj\Debug\net6.0\Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\WpfApp1\Servicio\obj\Debug\net6.0\Servicio.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\WpfApp1\Servicio\obj\Debug\net6.0\Servicio.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\WpfApp1\Servicio\obj\Debug\net6.0\Servicio.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\WpfApp1\Servicio\obj\Debug\net6.0\Servicio.csproj.CopyComplete
+C:\Users\Alumno\source\repos\WpfApp1\Servicio\obj\Debug\net6.0\Servicio.dll
+C:\Users\Alumno\source\repos\WpfApp1\Servicio\obj\Debug\net6.0\refint\Servicio.dll
+C:\Users\Alumno\source\repos\WpfApp1\Servicio\obj\Debug\net6.0\Servicio.pdb
+C:\Users\Alumno\source\repos\WpfApp1\Servicio\obj\Debug\net6.0\ref\Servicio.dll
+D:\tarea\lab07\lab07xd-desAEA\Servicio\bin\Debug\net6.0\Servicio.deps.json
+D:\tarea\lab07\lab07xd-desAEA\Servicio\bin\Debug\net6.0\Servicio.dll
+D:\tarea\lab07\lab07xd-desAEA\Servicio\bin\Debug\net6.0\Servicio.pdb
+D:\tarea\lab07\lab07xd-desAEA\Servicio\bin\Debug\net6.0\Datos.dll
+D:\tarea\lab07\lab07xd-desAEA\Servicio\bin\Debug\net6.0\Entity.dll
+D:\tarea\lab07\lab07xd-desAEA\Servicio\bin\Debug\net6.0\Datos.pdb
+D:\tarea\lab07\lab07xd-desAEA\Servicio\bin\Debug\net6.0\Entity.pdb
+D:\tarea\lab07\lab07xd-desAEA\Servicio\obj\Debug\net6.0\Servicio.csproj.AssemblyReference.cache
+D:\tarea\lab07\lab07xd-desAEA\Servicio\obj\Debug\net6.0\Servicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\tarea\lab07\lab07xd-desAEA\Servicio\obj\Debug\net6.0\Servicio.AssemblyInfoInputs.cache
+D:\tarea\lab07\lab07xd-desAEA\Servicio\obj\Debug\net6.0\Servicio.AssemblyInfo.cs
+D:\tarea\lab07\lab07xd-desAEA\Servicio\obj\Debug\net6.0\Servicio.csproj.CoreCompileInputs.cache
+D:\tarea\lab07\lab07xd-desAEA\Servicio\obj\Debug\net6.0\Servicio.csproj.CopyComplete
+D:\tarea\lab07\lab07xd-desAEA\Servicio\obj\Debug\net6.0\Servicio.dll
+D:\tarea\lab07\lab07xd-desAEA\Servicio\obj\Debug\net6.0\refint\Servicio.dll
+D:\tarea\lab07\lab07xd-desAEA\Servicio\obj\Debug\net6.0\Servicio.pdb
+D:\tarea\lab07\lab07xd-desAEA\Servicio\obj\Debug\net6.0\ref\Servicio.dll
+D:\xd\lab07xd-desAEA\Servicio\bin\Debug\net6.0\Servicio.deps.json
+D:\xd\lab07xd-desAEA\Servicio\bin\Debug\net6.0\Servicio.dll
+D:\xd\lab07xd-desAEA\Servicio\bin\Debug\net6.0\Servicio.pdb
+D:\xd\lab07xd-desAEA\Servicio\bin\Debug\net6.0\Datos.dll
+D:\xd\lab07xd-desAEA\Servicio\bin\Debug\net6.0\Entity.dll
+D:\xd\lab07xd-desAEA\Servicio\bin\Debug\net6.0\Datos.pdb
+D:\xd\lab07xd-desAEA\Servicio\bin\Debug\net6.0\Entity.pdb
+D:\xd\lab07xd-desAEA\Servicio\obj\Debug\net6.0\Servicio.csproj.AssemblyReference.cache
+D:\xd\lab07xd-desAEA\Servicio\obj\Debug\net6.0\Servicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\xd\lab07xd-desAEA\Servicio\obj\Debug\net6.0\Servicio.AssemblyInfoInputs.cache
+D:\xd\lab07xd-desAEA\Servicio\obj\Debug\net6.0\Servicio.AssemblyInfo.cs
+D:\xd\lab07xd-desAEA\Servicio\obj\Debug\net6.0\Servicio.csproj.CoreCompileInputs.cache
+D:\xd\lab07xd-desAEA\Servicio\obj\Debug\net6.0\Servicio.csproj.CopyComplete
+D:\xd\lab07xd-desAEA\Servicio\obj\Debug\net6.0\Servicio.dll
+D:\xd\lab07xd-desAEA\Servicio\obj\Debug\net6.0\refint\Servicio.dll
+D:\xd\lab07xd-desAEA\Servicio\obj\Debug\net6.0\Servicio.pdb
+D:\xd\lab07xd-desAEA\Servicio\obj\Debug\net6.0\ref\Servicio.dll
+D:\xd\lab11-1\lab09-desAEA\Servicio\bin\Debug\net6.0\Servicio.deps.json
+D:\xd\lab11-1\lab09-desAEA\Servicio\bin\Debug\net6.0\Servicio.dll
+D:\xd\lab11-1\lab09-desAEA\Servicio\bin\Debug\net6.0\Servicio.pdb
+D:\xd\lab11-1\lab09-desAEA\Servicio\bin\Debug\net6.0\Datos.dll
+D:\xd\lab11-1\lab09-desAEA\Servicio\bin\Debug\net6.0\Entity.dll
+D:\xd\lab11-1\lab09-desAEA\Servicio\bin\Debug\net6.0\Datos.pdb
+D:\xd\lab11-1\lab09-desAEA\Servicio\bin\Debug\net6.0\Entity.pdb
+D:\xd\lab11-1\lab09-desAEA\Servicio\obj\Debug\net6.0\Servicio.csproj.AssemblyReference.cache
+D:\xd\lab11-1\lab09-desAEA\Servicio\obj\Debug\net6.0\Servicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\xd\lab11-1\lab09-desAEA\Servicio\obj\Debug\net6.0\Servicio.AssemblyInfoInputs.cache
+D:\xd\lab11-1\lab09-desAEA\Servicio\obj\Debug\net6.0\Servicio.AssemblyInfo.cs
+D:\xd\lab11-1\lab09-desAEA\Servicio\obj\Debug\net6.0\Servicio.csproj.CoreCompileInputs.cache
+D:\xd\lab11-1\lab09-desAEA\Servicio\obj\Debug\net6.0\Servicio.csproj.CopyComplete
+D:\xd\lab11-1\lab09-desAEA\Servicio\obj\Debug\net6.0\Servicio.dll
+D:\xd\lab11-1\lab09-desAEA\Servicio\obj\Debug\net6.0\refint\Servicio.dll
+D:\xd\lab11-1\lab09-desAEA\Servicio\obj\Debug\net6.0\Servicio.pdb
+D:\xd\lab11-1\lab09-desAEA\Servicio\obj\Debug\net6.0\ref\Servicio.dll
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Servicio\obj\Debug\net6.0\Servicio.csproj.AssemblyReference.cache
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Servicio\obj\Debug\net6.0\Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Servicio\obj\Debug\net6.0\Servicio.AssemblyInfoInputs.cache
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Servicio\obj\Debug\net6.0\Servicio.AssemblyInfo.cs
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Servicio\obj\Debug\net6.0\Servicio.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Servicio\obj\Debug\net6.0\Servicio.dll
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Servicio\obj\Debug\net6.0\refint\Servicio.dll
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Servicio\obj\Debug\net6.0\Servicio.pdb

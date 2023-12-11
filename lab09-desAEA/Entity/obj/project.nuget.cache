@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U5iyR9+V6EQWr3MfmdJgZpSktxHpap2tC9jINxlq9rBggvxdpgGXces/oRuC3P9vO+mBa+Gp7yEmSEUaVzxa8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jose_\\OneDrive\\Escritorio\\Laboratorios Torrico\\Laboratorio8y9\\lab09-desAEA\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jose_\\.nuget\\packages\\extended.wpf.toolkit\\4.5.1\\extended.wpf.toolkit.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

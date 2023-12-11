@@ -1,0 +1,60 @@
+C:\Users\Alumno\source\repos\WpfApp1\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\Alumno\source\repos\WpfApp1\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\Alumno\source\repos\WpfApp1\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\Alumno\source\repos\WpfApp1\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\WpfApp1\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\WpfApp1\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\WpfApp1\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\WpfApp1\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\WpfApp1\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\Alumno\source\repos\WpfApp1\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\Alumno\source\repos\WpfApp1\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\Alumno\source\repos\WpfApp1\Entity\obj\Debug\net6.0\ref\Entity.dll
+D:\tarea\lab07\lab07xd-desAEA\Entity\bin\Debug\net6.0\Entity.deps.json
+D:\tarea\lab07\lab07xd-desAEA\Entity\bin\Debug\net6.0\Entity.dll
+D:\tarea\lab07\lab07xd-desAEA\Entity\bin\Debug\net6.0\Entity.pdb
+D:\tarea\lab07\lab07xd-desAEA\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+D:\tarea\lab07\lab07xd-desAEA\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\tarea\lab07\lab07xd-desAEA\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+D:\tarea\lab07\lab07xd-desAEA\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+D:\tarea\lab07\lab07xd-desAEA\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+D:\tarea\lab07\lab07xd-desAEA\Entity\obj\Debug\net6.0\Entity.dll
+D:\tarea\lab07\lab07xd-desAEA\Entity\obj\Debug\net6.0\refint\Entity.dll
+D:\tarea\lab07\lab07xd-desAEA\Entity\obj\Debug\net6.0\Entity.pdb
+D:\tarea\lab07\lab07xd-desAEA\Entity\obj\Debug\net6.0\ref\Entity.dll
+D:\xd\lab07xd-desAEA\Entity\bin\Debug\net6.0\Entity.deps.json
+D:\xd\lab07xd-desAEA\Entity\bin\Debug\net6.0\Entity.dll
+D:\xd\lab07xd-desAEA\Entity\bin\Debug\net6.0\Entity.pdb
+D:\xd\lab07xd-desAEA\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+D:\xd\lab07xd-desAEA\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\xd\lab07xd-desAEA\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+D:\xd\lab07xd-desAEA\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+D:\xd\lab07xd-desAEA\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+D:\xd\lab07xd-desAEA\Entity\obj\Debug\net6.0\Entity.dll
+D:\xd\lab07xd-desAEA\Entity\obj\Debug\net6.0\refint\Entity.dll
+D:\xd\lab07xd-desAEA\Entity\obj\Debug\net6.0\Entity.pdb
+D:\xd\lab07xd-desAEA\Entity\obj\Debug\net6.0\ref\Entity.dll
+D:\xd\lab11-1\lab09-desAEA\Entity\bin\Debug\net6.0\Entity.deps.json
+D:\xd\lab11-1\lab09-desAEA\Entity\bin\Debug\net6.0\Entity.dll
+D:\xd\lab11-1\lab09-desAEA\Entity\bin\Debug\net6.0\Entity.pdb
+D:\xd\lab11-1\lab09-desAEA\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+D:\xd\lab11-1\lab09-desAEA\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\xd\lab11-1\lab09-desAEA\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+D:\xd\lab11-1\lab09-desAEA\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+D:\xd\lab11-1\lab09-desAEA\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+D:\xd\lab11-1\lab09-desAEA\Entity\obj\Debug\net6.0\Entity.dll
+D:\xd\lab11-1\lab09-desAEA\Entity\obj\Debug\net6.0\refint\Entity.dll
+D:\xd\lab11-1\lab09-desAEA\Entity\obj\Debug\net6.0\Entity.pdb
+D:\xd\lab11-1\lab09-desAEA\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\jose_\OneDrive\Escritorio\Laboratorios Torrico\Laboratorio8y9\lab09-desAEA\Entity\obj\Debug\net6.0\ref\Entity.dll
